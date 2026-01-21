@@ -211,3 +211,11 @@ body {
   display: none;
 }
 
+
+.seo-content {
+  max-width: 900px;
+  margin: 50px auto;
+  padding: 0 15px;
+}
+
+
